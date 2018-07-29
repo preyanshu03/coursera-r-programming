@@ -1,7 +1,7 @@
 Overview and History of R
 =======================
 
-R is the dialect of the S language
+R is the dialect of the S language.
 
 What is S?
 ----------
